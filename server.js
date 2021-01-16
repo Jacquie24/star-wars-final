@@ -23,7 +23,7 @@ var characters = [
     forcePoints: 2000
   },
   {
-    routeName: "darthmaul",
+    routeName: "darthhaul",
     name: "Darth Maul",
     role: "Sith Lord",
     age: 200,
